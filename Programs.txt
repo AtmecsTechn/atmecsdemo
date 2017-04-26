@@ -1,0 +1,18 @@
+1. Implement a HashMap of Generic Type.
+
+2. Program for Arrays.toList() and Stream.of() methods.
+
+3. Program for returning  the size of string as well as the string itself that is palindrome from the list of strings.you may use the getsizePalindrome() method to return size.
+
+4. Using Optional class create a List of Lists of players and return a list of all indian players . A player class should have id, name and country as class members.
+
+5. Using Optional class create a List of Lists of players and return-
+  a) Lists those having atleast one indian player.
+  b) Get lists those having all indian players.
+  c) Get count of indian players per list.
+  d) Maximum count of indian players among lists and return the index of that list.
+
+
+6) Create a Map that should have country as a key and a list of players as a value.Now, return the country in which all the team members hit atleast one century.
+
+7) Create a Box Class that should have  constructor and methods getItems(),setItems() accepting a list of items.Now, using a method getContents() return the list of items like chocolates and biscuits etc. 
